@@ -1,0 +1,5 @@
+# Ignore all binaries and executeables
+*.o
+*.core
+server_main
+client_main
